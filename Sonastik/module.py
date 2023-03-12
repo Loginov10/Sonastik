@@ -12,7 +12,7 @@ def slovar(rus_file,est_file):
         translateest
         edite
     else:
-        print("Invalid input. Please choose 'rus' or 'est'.")
+        print("Vale input. Palun valige 'rus' või 'est'.")
 
 
 def loe_failistr(rus):
